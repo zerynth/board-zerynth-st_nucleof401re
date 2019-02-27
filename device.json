@@ -55,6 +55,15 @@
     "jtag_chipid_prefix": "0x1fff7",
     "bytecode_offset": "0x8020000",
     "vmstore_offset": "0x801FC00",
+    "preferred_uplink_with_jtag":{
+        "probe":"stlink"
+    },
+    "preferred_register_with_jtag":{
+        "probe":"stlink"
+    },
+    "preferred_burn_with_jtag":{
+        "probe":"stlink"
+    },
     "uplink_reset": true,
     "reset_time": 2000,
     "has_alter_ego": false,
@@ -67,3 +76,5 @@
         "rtscts": false
     }
 }
+
+
