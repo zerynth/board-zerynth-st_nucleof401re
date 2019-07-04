@@ -1,0 +1,15 @@
+---
+description: Add support for ST Nucleo F401RE
+fullname: board.zerynth.st_nucleof401re
+info:
+    board: ST Nucleo F401RE
+    chip_manufacturer: ST Microelectronics
+    device: stm32f401
+    family_type: ARM Cortex M4
+keywords:
+- board
+- nucleo
+- stm
+- f401re
+title: ST Nucleo F401RE Support Package
+...
