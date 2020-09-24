@@ -41,7 +41,7 @@
             "STM32F401xx",
             "STM32F401xE",
             "STM32F401RE",
-            "VM_DEFAULT_THREAD_SIZE=1024"
+            "VM_DEFAULT_THREAD_SIZE=2048"
         ]
     },
     "relocator": "cortex-m",
